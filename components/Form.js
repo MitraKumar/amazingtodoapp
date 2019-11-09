@@ -30,9 +30,3 @@ export default function Form({onSubmit}) {
     </FormControl>
   )
 }
-
-/**<input 
-        value={name} 
-        placeholder="Enter a todo..." 
-        onChange={e => setName(e.target.value)}
-      /> */
